@@ -5,7 +5,7 @@ chapter: 1
 slug: "1"
 ---
 
-The following is a textbook, 
+The following is a textbook on Zùq (/zɯ˥˩ŋ/), a 
 
 ## How to use this textbook
 
