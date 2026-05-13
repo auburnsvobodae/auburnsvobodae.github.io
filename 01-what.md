@@ -6,6 +6,7 @@ slug: "1"
 ---
 
 The following is a textbook on Zùq (/zɯ˥˩ŋ/), a conlang, a **con**structed **lang**uage, more specifically a loglang, in the same vain and inspired by Toaq. It aimes to be completely syntactically and semantically unambiguous, in other words, for every sentence there is exctly one one to label its parts and understand them.
+
 In addition to the aforementioned goals, it also attempts to do so with minimal explicit marking, relying upon word order and logic to extrapolate it. This has the added side-effect of it being fairly concise, while still being able to express with ease the same topics Toaq and English can.
 
 ## Lesson Structure
