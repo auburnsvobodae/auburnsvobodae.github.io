@@ -5,7 +5,7 @@ chapter: 1
 slug: "1"
 ---
 
-
+The following is a textbook, 
 
 ## How to use this textbook
 
