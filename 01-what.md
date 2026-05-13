@@ -5,7 +5,7 @@ chapter: 1
 slug: "1"
 ---
 
-The following is a textbook on Zùq (/zɯ˥˩ŋ/), a 
+The following is a textbook on Zùq (/zɯ˥˩ŋ/), a [_loglang_](https://toaqlanguage.wordpress.com/2022/09/26/logical-language-misconceptions/)
 
 ## How to use this textbook
 
