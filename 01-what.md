@@ -5,7 +5,7 @@ chapter: 1
 slug: "1"
 ---
 
-The following is a textbook on Zùq (/zɯ˥˩ŋ/), a [_loglang_](https://toaqlanguage.wordpress.com/2022/09/26/logical-language-misconceptions/)
+The following is a textbook on Zùq (/zɯ˥˩ŋ/), a [_loglang_](https://toaqlanguage.wordpress.com/2022/09/26/logical-language-misconceptions/), heavily inspired by Toaq. It is a conlang, a **con**structed **lang**uage, more specifically a loglang and an artlang. Created for artistic purposes, it aimes to be completely syntactically and semantically unam
 
 ## How to use this textbook
 
