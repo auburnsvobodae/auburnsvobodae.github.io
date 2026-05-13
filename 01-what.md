@@ -5,16 +5,15 @@ chapter: 1
 slug: "1"
 ---
 
-The following is a textbook on Zùq (/zɯ˥˩ŋ/), a conlang, a **con**structed **lang**uage, more specifically a loglang and an artlang, in the same vain and inspired by Toaq. Created for artistic purposes, it aimes to be completely syntactically and semantically unambiguous.
+The following is a textbook on Zùq (/zɯ˥˩ŋ/), a conlang, a **con**structed **lang**uage, more specifically a loglang, in the same vain and inspired by Toaq. It aimes to be completely syntactically and semantically unambiguous, in other words, for every sentence there is exctly one one to label its parts and understand them.
+In addition to the aforementioned goals, it also attempts to do so with minimal explicit marking, relying upon word order and logic to extrapolate it. This has the added side-effect of it being fairly concise, while still being able to express with ease the same topics Toaq and English can.
 
-## How to use this textbook
+## Lesson Structure
 
-This textbook serves as the "post-Delta" answer to _Toaq with Ease_, from which it inherits a few qualities:
+Each lesson has a 'vocabulary' part, 'grammar' part, and 'excercises' part, with one 'test' section added every four lessons. Accasionally, there will appear grey boxes, containing extra vocabulary, grammar or excercises, deemed less important to mention in the full text.
 
-- Each lesson is structured around a small dialogue, followed by explanations.
-- The book aims to teach both vocabulary and grammar, following actual usage.
-- By the end, the reader should be able to communicate in simple Toaq.
-
-To study the vocabulary in the book, you can use [**this deck**](https://nightly.link/laqme/koitieq/workflows/anki/main/Koitieq.apkg.zip) for the flashcard program [Anki](https://apps.ankiweb.net/). This deck is automatically generated; as chapters get added to the textbook, you can download it again to add the latest cards to your copy of the deck.
-
-No English translations are given to the dialogues. You are encouraged to repeat the contents of each lesson until you can understand the dialogue without much trouble. If you have any questions, check out the [Toaq Wiki](https://toaq.me), or [ask us on Discord](https://discord.gg/BjRry9QtwY). _Taıba!_{:.t}
+<details class="aside " markdown="1">
+<summary>Grammar aside</summary>
+This box contains grammar details. For example, instead of simply telling you that _shao nuo_{:.t} means _want to sleep_, it might point out that this construction is known as a _serial verb_.
+</details>
+_Taıba!_{:.t}
