@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        @font-face { src: url("{{ '/assets/css/FiraSans-Regular-vy.woff2' | relative_url }}") format(woff2); font-family: "Fira Sans"; font-weight: 400; }
+        @font-face { src: url("{{ '/assets/css/FiraSans-Bold-vy.woff2' | relative_url }}") format(woff2); font-family: "Fira Sans"; font-weight: 700; }
+        @font-face { src: url("{{ '/assets/css/FiraSans-Italic-vy.woff2' | relative_url }}") format(woff2); font-family: "Fira Sans"; font-weight: 400; font-style: italic; }
+        @font-face { src: url("{{ '/assets/css/FiraSans-BoldItalic-vy.woff2' | relative_url }}") format(woff2); font-family: "Fira Sans"; font-weight: 700; font-style: italic; }
+        @font-face { src: url("{{ '/assets/css/FiraMath-Regular.woff2' | relative_url }}") format(woff2); font-family: "Fira Math"; font-weight: 400; }
+        html { color-scheme: light dark; --sans: "Fira Sans", "Fira Math", sans-serif; color: light-dark(#222, #ccc); background: light-dark(#fcfcfd, #202024); --primary: light-dark(#27e, #5af); }
+    </style>
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,600;0,700;1,400;1,700&display=block" rel="stylesheet"> -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <link rel="icon" type="image/png" href="{{ '/favicon.png' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    {% seo %}
+</head>
+<body>
+    {{ content }}
+</body>
+</html>
+
