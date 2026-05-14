@@ -11,10 +11,10 @@ In addition to the aforementioned goals, it also attempts to do so with minimal 
 
 ## Lesson Structure
 
-Each lesson has a 'vocabulary' part, 'grammar' part, and 'excercises' part, with one 'test' section added every four lessons. Accasionally, there will appear grey boxes, containing extra vocabulary, grammar or excercises, deemed less important to mention in the full text.
+Each lesson has a 'vocabulary' part, 'grammar' part, and 'excercises' part, with one 'test' section added in between every four lessons. Accasionally, there will appear grey boxes, containing extra vocabulary, grammar or excercises, deemed less important to mention in the full text.
 
-<details class="aside " markdown="1">
-<summary>Grammar aside</summary>
-This box contains grammar details. For example, instead of simply telling you that _shao nuo_{:.t} means _want to sleep_, it might point out that this construction is known as a _serial verb_.
+<details class="aside" markdown="1">
+<summary>Additions</summary>
+This dropdown contains extra information, useful words, grammatical quirks or additional excersises
 </details>
 _Taıba!_{:.t}
