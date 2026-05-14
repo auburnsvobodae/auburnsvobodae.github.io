@@ -1,23 +1,18 @@
-title: Zùq
-description: A Zùq textbook
+title: Zuq
+description: A Zuq textbook
 baseurl: "/zuq" # Change this to your repository name
 url: "https://auburnsvobodae.github.io" # Change this to your GitHub Pages URL
 # theme: minima
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 # Collection settings
 collections:
   chapters:
     output: true
     permalink: /:slug/
-  meiaq:
-    output: true
-    permalink: /meiaq/:slug/
+  
 
 defaults:
   - scope:
