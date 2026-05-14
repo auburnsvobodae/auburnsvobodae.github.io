@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Zùq
-title_en: Walkway
+title_en: zuq
 ---
 
 A textbook for Zùq, a constructed language.
