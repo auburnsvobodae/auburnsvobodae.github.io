@@ -1,12 +1,11 @@
 ---
 layout: chapter
-title: Koıtıeq
+title: Zùq
 title_en: Walkway
 ---
 
-A textbook for [Toaq](https://toaq.me), a constructed language.
+A textbook for Zùq, a constructed language.
 
-<img width="100%" src="./tieq.svg" alt="An abstract illustration of a path of little black rectangles with colored side paths.">
 
 ## Chapters
 
